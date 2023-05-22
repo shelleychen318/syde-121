@@ -1,4 +1,4 @@
 # SYDE 121 - Digital Computation
-My work in the Systems Design Engineering Digital Computation (SYDE 121) course. Course content covers problem solving, OOP principles, and data structures in C++. 
+This repository contains my assignments and labs from the Systems Design Engineering Data Structures and Algorithms (SYDE 223) course.  Course content covers problem solving, OOP principles, and data structures in C++. 
 
 Final Grade: 97%
