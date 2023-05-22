@@ -26,7 +26,7 @@ ofstream out;
 
 int main()
 {
-    in.open("samp_img.ppm");           // input file with image
+    in.open("img1.ppm");           // input file with image
     out.open("21002650_inverted.ppm"); // output file with inverted image
 
     if (in.fail())
